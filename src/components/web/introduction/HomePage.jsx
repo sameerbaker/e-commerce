@@ -44,7 +44,7 @@ const HomePage = () => {
       >
         <h1>Welcome to Our E-Commerce Store!</h1>
         <img
-          src="../../../../public/storelogo.jpeg" // Replace with your product image
+          src="../../../../src/assets/SlogoSmarkt.png" // Replace with your product image
           alt="Product"
           className="product-image"
         />
